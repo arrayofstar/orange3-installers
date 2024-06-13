@@ -14,7 +14,7 @@ jobs:
     runs-on:  windows-2019
     timeout-minutes: 60
     env:
-      REPO: https://github.com/biolab/orange3.git
+      REPO: https://github.com/arrayofstar/orange3
       BUILD_BRANCH: master
       BUILD_COMMIT: "3.37.0"
       BUILD_LOCAL: ""
